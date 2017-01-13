@@ -24,5 +24,6 @@
       "description": "Your Braintree Private Key",
       "required": true
     }
-  }
+  },
+  "stack": "heroku-16"
 }
